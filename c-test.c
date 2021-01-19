@@ -3,14 +3,7 @@
 #include <time.h>
 int main()
 {
-    int i;
-    int x;
-    srand(time(NULL));
-    for (i = 0; i <= 10; i++)
-    {
-        printf("   %-3d\n", x = rand() % 100);
-    }
-    printf("this is my life! i want to make more money\n");
+    printf("This is a test for git!\n");
     system("pause");
     return 0;
 }
