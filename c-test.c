@@ -10,6 +10,7 @@ int main()
     {
         printf("   %-3d\n", x = rand() % 100);
     }
+    printf("this is my life! i want to make more money\n");
     system("pause");
     return 0;
 }
